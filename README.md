@@ -26,3 +26,6 @@ cd build
 # See usage
 ./chineseocr-ncnn -h
 ```
+
+# Credit
+- [chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite)
